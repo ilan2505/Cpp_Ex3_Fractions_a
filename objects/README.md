@@ -1,0 +1,1 @@
+This is the 'objects' directory, all *.o files will be listed here (essential for Makefile)
